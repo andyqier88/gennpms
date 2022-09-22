@@ -1,1 +1,1 @@
-# gennpms
+# 组件生成npm 包
